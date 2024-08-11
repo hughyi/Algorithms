@@ -1,6 +1,6 @@
 # Algorithms
 
-Assignments from **Prof. Jungmin So**'s Data Structures class, Fall 2023 @ **Sogang University**.
+Assignments from **Prof. Jungmin So**'s Algorithms class, Fall 2023 @ **Sogang University**.
 
 ## Contents
 1. Maximum Subrectangle in 2D Array
