@@ -1,2 +1,5 @@
 # Algorithms
-Prof. Jungmin So - fall '23 @ Sogang University
+
+Assignments from **Prof. Jungmin So**'s Data Structures class, Fall 2023 @ **Sogang University**.
+
+## Contents
